@@ -61,8 +61,8 @@ We tested multiple forecasting models and evaluated their performance using **Me
 | **ARIMA(3,1,2)(1,1,2) ✅** | **9.8** | **2,475** | 🔥 **Best model, lowest error** 🔥 |
 
 ---
-
-## **Visualization Examples**  
+ 
+## Visualization Examples  
 ### 📊 NYC Taxi Ridership Over Time  
 ![Ridership Trends](plots/ridership_trends.png)  
 
