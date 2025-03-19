@@ -84,13 +84,13 @@ We tested multiple forecasting models and evaluated their performance using **Me
 git clone https://github.com/your-username/NYC-Taxi-Ridership-Analysis.git
 cd NYC-Taxi-Ridership-Analysis
 ---
-## **Connect With Me 🚀
+# **Connect With Me 🚀**
+
 If you found this project interesting, feel free to connect with me:
-📧 Email: nuzhatzaidi100@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/nuzhat-fatima/
-📂 GitHub: https://github.com/nuzhatfatima100
 
-⭐ If you like this project, don’t forget to give it a star on GitHub! ⭐
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)  
+📂 **GitHub:** [Your GitHub](https://github.com/yourusername)  
 
----
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! ⭐
 
