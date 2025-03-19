@@ -67,7 +67,7 @@ We tested multiple forecasting models and evaluated their performance using **Me
 ![Ridership Trends](https://github.com/nuzhatfatima100/NYC-Taxi-Ridership-Time-Series-Analysis/blob/main/ridership_trends.png)  
 
 ### 🚀 Peak Demand During Major Events  
-![Event Impact](plots/event_impact.png)  
+![Event Impact](https://github.com/nuzhatfatima100/NYC-Taxi-Ridership-Time-Series-Analysis/blob/main/event_impact.png)  
 
 ---
 
